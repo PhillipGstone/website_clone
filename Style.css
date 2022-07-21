@@ -1,0 +1,62 @@
+body {
+    background-color: aqua;
+}
+nav {
+    padding: 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container-fluid{
+    background-color: white;
+    padding: 1% 2% 0% 2%; /*  top right bottom left  */
+    margin: 0%;
+}
+.container-fluid {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main_homepage_div{
+    background-color: black;
+    margin-right: 28%;
+    margin-left: 28%;
+    height: 50em;
+    display: flex;
+    justify-content: space-around;
+}
+.carousel-inner, #carouselExampleIndicators {
+    display: block;
+    height:290px;
+    width: 430px;
+    text-align: center;
+    padding: 1em;
+}
+.inner_right_div {
+    background-color: burlywood;
+    display: block;
+    padding: 1em;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.pic {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.picture {
+    margin-left: 50%;
+    margin-right: 50%;
+    /* width: 200%; */
+}
+.inner_right_pics {
+    background-color: white;
+    flex-direction: row;
+    margin: 1%;
+    padding: 1%;
+}
+.inner_middle_div {
+    background-color: yellowgreen;
+    
+}
