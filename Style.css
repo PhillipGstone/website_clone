@@ -94,11 +94,9 @@ nav {
     width: 210%;
 }
 .resize_pic1 {
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: auto;
-    margin-bottom: auto;
-    width: 20%;
+    margin-left: 3%;
+    margin-right: 5%;
+    width: 15%;
 }
 .inner_right_coming_soon {
     border-top: 2px solid gray;
